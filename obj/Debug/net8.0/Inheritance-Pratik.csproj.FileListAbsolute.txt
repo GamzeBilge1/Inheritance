@@ -1,0 +1,15 @@
+C:\Users\Gamze\source\repos\Inheritance-Pratik\Inheritance-Pratik\bin\Debug\net8.0\Inheritance-Pratik.exe
+C:\Users\Gamze\source\repos\Inheritance-Pratik\Inheritance-Pratik\bin\Debug\net8.0\Inheritance-Pratik.deps.json
+C:\Users\Gamze\source\repos\Inheritance-Pratik\Inheritance-Pratik\bin\Debug\net8.0\Inheritance-Pratik.runtimeconfig.json
+C:\Users\Gamze\source\repos\Inheritance-Pratik\Inheritance-Pratik\bin\Debug\net8.0\Inheritance-Pratik.dll
+C:\Users\Gamze\source\repos\Inheritance-Pratik\Inheritance-Pratik\bin\Debug\net8.0\Inheritance-Pratik.pdb
+C:\Users\Gamze\source\repos\Inheritance-Pratik\Inheritance-Pratik\obj\Debug\net8.0\Inheritance-Pratik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\Inheritance-Pratik\Inheritance-Pratik\obj\Debug\net8.0\Inheritance-Pratik.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\Inheritance-Pratik\Inheritance-Pratik\obj\Debug\net8.0\Inheritance-Pratik.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\Inheritance-Pratik\Inheritance-Pratik\obj\Debug\net8.0\Inheritance-Pratik.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\Inheritance-Pratik\Inheritance-Pratik\obj\Debug\net8.0\Inheritance-Pratik.sourcelink.json
+C:\Users\Gamze\source\repos\Inheritance-Pratik\Inheritance-Pratik\obj\Debug\net8.0\Inheritance-Pratik.dll
+C:\Users\Gamze\source\repos\Inheritance-Pratik\Inheritance-Pratik\obj\Debug\net8.0\refint\Inheritance-Pratik.dll
+C:\Users\Gamze\source\repos\Inheritance-Pratik\Inheritance-Pratik\obj\Debug\net8.0\Inheritance-Pratik.pdb
+C:\Users\Gamze\source\repos\Inheritance-Pratik\Inheritance-Pratik\obj\Debug\net8.0\Inheritance-Pratik.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\Inheritance-Pratik\Inheritance-Pratik\obj\Debug\net8.0\ref\Inheritance-Pratik.dll
